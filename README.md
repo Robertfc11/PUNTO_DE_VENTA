@@ -1,5 +1,5 @@
 # PUNTO_DE_VENTA
-Proyecto final como parte del Modelo Dual para la empresa CLEVER CLOUD
+Proyecto final como parte del Modelo Dual CLEVER CLOUD
 
 Punto de Venta con gestión de inventario
 
