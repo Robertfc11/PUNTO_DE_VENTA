@@ -7,7 +7,7 @@ El inventario almacena las existencias y precios de los productos, así cómo su
 
 ● El inventario es pensando en cualquier tipo de empresa de productos
 
-● En el inventario busca y filtra los productos
+● En el inventario se puede buscar y filtrar los productos
 
 ● El punto de venta está conectado al inventario
 
